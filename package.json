@@ -1,0 +1,15 @@
+{
+  "name": "unifyid",
+  "version": "1.0.0",
+  "description": "Unify Id coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shishir Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "imagejs": "0.0.9",
+    "request": "^2.83.0"
+  }
+}
